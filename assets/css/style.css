@@ -1,1 +1,14 @@
-.five
+#five-day-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px auto;
+    gap: 10px;
+}
+
+.card {
+    width: 80%;
+    max-width: 200px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 20px;
+}
